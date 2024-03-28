@@ -5,8 +5,8 @@
 //#include <conio.h>
 //#include "report.h"
 
-#define NUM_STUDENTS 2
-#define NUM_SUBJECTS 2
+#define NUM_STUDENTS 10
+#define NUM_SUBJECTS 6
 
 void inputMarksISA1(float marks[][NUM_SUBJECTS]) {
     printf("Enter marks for ISA1 (out of 40):\n");
