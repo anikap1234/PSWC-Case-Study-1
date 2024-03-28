@@ -2,8 +2,8 @@
 #include "report.h"
 //#include "report.c"
 
-#define NUM_STUDENTS 2
-#define NUM_SUBJECTS 2
+#define NUM_STUDENTS 10
+#define NUM_SUBJECTS 6
 
 
 
