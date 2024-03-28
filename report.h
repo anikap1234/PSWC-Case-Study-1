@@ -2,8 +2,8 @@
 //header file
 //function declaration
 
-#define NUM_STUDENTS 2
-#define NUM_SUBJECTS 2
+#define NUM_STUDENTS 10
+#define NUM_SUBJECTS 6
 void inputMarksISA1(float marks[][NUM_SUBJECTS]);
 void inputMarksISA2(float marks[][NUM_SUBJECTS]);
 void inputMarksESA(float marks[][NUM_SUBJECTS]);
